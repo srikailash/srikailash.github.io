@@ -28,3 +28,5 @@ If you can visualise, you can remember it very well
 as we can remember pictures better.
 
 5. Make sure to spend good amount of time on things not related. I recognize that reading fiction made me better with memory.
+
+6. Make sure you have the proper foundation for things that you're planning to learn. You can grasp tougher things only when you are strong with fundamentals.
