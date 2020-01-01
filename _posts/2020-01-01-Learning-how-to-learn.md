@@ -13,7 +13,7 @@ I realise spending all your time on thing is counter-productive.
 and wanna keep these in mind:
 
 1. Focus on the core thing that you wanna do.
-It's important to realise where this learning is gonna take you.
+Also make sure to spend time on things outside, that is very important for your learning as well
 
 2. Have a strategy to measure your progress in learning 
 Measurement can also be time spent studying. It's important not to over-stress on results that you are looking for.
