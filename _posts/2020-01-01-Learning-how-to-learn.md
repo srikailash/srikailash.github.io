@@ -27,4 +27,4 @@ to someone else.
 If you can visualise, you can remember it very well
 as we can remember pictures better.
 
-5. Make sure to spend good amount of time on things not related.
+5. Make sure to spend good amount of time on things not related. I recognize that reading fiction made me better with memory.
