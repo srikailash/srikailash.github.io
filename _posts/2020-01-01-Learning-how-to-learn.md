@@ -14,7 +14,7 @@ memories outside learning things, but i really like learning.
 
 These are a few points that i wanna keep in mind to make my learning efficient so i can also have a "life"
 
-1. Focus on the core thing that you wanna do.
+1. Focus on the core thing that you are looking to learn.
 This can be answered by approaching material with questions.
 
 2. Have a strategy to measure your progress in learning.
