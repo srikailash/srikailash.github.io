@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Software engineer's view of a goldsmith
+title: My analysis of my dad's work
 ---
 
 
@@ -24,9 +24,10 @@ third parties which kept him busy during the initial stages.
 He very passionately says that it's a great feeling to see customers starting with small orders and 
 then growing financially to make big orders. 
 
-My analysis of his work:
+<h4>{{ My analysis of his work:" | downcase }}</h4>
 
-Requirement gathering:
+
+# Requirement gathering:
 Requirements are ususally arond weight, durability and less service charges
 Designs are usually downloaded from the web or design catalogues or pictures 
 of a similar orders(in most cases).
