@@ -21,8 +21,9 @@ potential, so he decided to start on his own.
 When i asked him what gave him enough confidence that he will acquire customers, he 
 said his focus was on delivering good results for a few customers so they become loyal and return. 
 He also says that his low living costs made the move easier.
-He says that he had a friend who is already in business and is willing to outsource to trusted
+He mentiones he had a friend who is already in business and is willing to outsource to trusted
 third parties which kept him busy during the initial stages.
+
 He very passionately says that it's a great feeling to see customers starting with small orders and 
 then growing financially to make big orders. 
 
@@ -32,8 +33,8 @@ Let's jump into the customer journey.
 
 **Requirements gathering:**
 
-Requirements are ususally arond weight, durability and less service charges
-Designs are usually downloaded from the web or design catalogues or pictures 
+Requirements are usually around design, weight, durability and less service charges
+Designs can be downloaded from the web or design catalogues or pictures 
 of a similar orders(in most cases).
 
 **work debt(in any form):**
@@ -45,12 +46,12 @@ the original material back and re-do it.
 **Experimentation:**
 
 He says he personally tries to keep things simple and not experiment but it is common 
-for people to experiment as cost of experimentation is pretty low.(value of hours spent is way less than material value)
+for people to experiment as cost of experimentation is pretty low.(material value can always be retrieved)
 
 **Designs:**
 
 There are jewellery designers that upload in the internet, but it is mostly one customer wanting 
-to get something that other has.(#FOMO)
+to get something that other has.(FOMO aka market standards :P)
 
 **Testing:**
 
@@ -65,9 +66,9 @@ longer during those and shorter normally.
 **Competition:**
 
 He says these are the factors that help to stand-out
-Maintain customer engagement
-Faster delivery
-Quality and durability
+- Maintain customer engagement
+- Faster delivery
+- Quality and durability
 
 **Migrations:**
 
