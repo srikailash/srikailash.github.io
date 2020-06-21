@@ -8,7 +8,7 @@ title: My analysis of my dad's work
 
 
 I remember getting ready on Sunday mornings as a kid to go with my dad to 
-deliver customer orders, but spent years after that very detached to his business
+deliver customer orders, but spent years after that very detached from his business
 being busy at school. I am very happy to finally be able to relate to his work as
 a software engineer. 
 
@@ -36,16 +36,16 @@ Requirements are ususally arond weight, durability and less service charges
 Designs are usually downloaded from the web or design catalogues or pictures 
 of a similar orders(in most cases).
 
-**debt(in any form):**
+**work debt(in any form):**
 
 Since tech debt is a big thing, i asked him if they have similar problems. 
-Apparenly, value of hours spent <<< material costs, so it is easier to get the original 
-material back and re-doing it. 
+Apparenly, value of hours spent is far less than material costs, so it is easier to get 
+the original material back and re-do it. 
 
 **Experimentation:**
 
 He says he personally tries to keep things simple and not experiment but it is common 
-for people to experiment as cost of experimentation is pretty low.(value of hours spent <<< material value)
+for people to experiment as cost of experimentation is pretty low.(value of hours spent is way less than material value)
 
 **Designs:**
 
@@ -71,7 +71,7 @@ Quality and durability
 
 **Migrations:**
 
-He says that almost 70% of the order are migrations.(chaning one ornament to another)
+He says that almost 70% of the order are migrations.(changing one ornament to another)
 Apparently, they can't escape migrations either.
 
 **Cost of failures:**
@@ -94,4 +94,5 @@ He says it makes customers happy to have ornaments and it is what the whole worl
 Hope you had fun reading it, pretty sure you will find someone you know that would love
 to talk about their work. I also hope this article makes him realise his work is as challenging 
 as an office job that he always thought he wanted to do.
-My mom also wants a mention in the article but i will probably write an article about her cooking :P
+
+My mom also wants a mention in this article but i will probably write an article about her cooking :P
