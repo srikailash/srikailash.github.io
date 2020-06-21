@@ -26,7 +26,8 @@ then growing financially to make big orders.
 
 <h4>{{ My analysis of his work:" }}</h4>
 
-**Requirements gathering**
+**Requirements gathering**:
+
 Requirements are ususally arond weight, durability and less service charges
 Designs are usually downloaded from the web or design catalogues or pictures 
 of a similar orders(in most cases).
