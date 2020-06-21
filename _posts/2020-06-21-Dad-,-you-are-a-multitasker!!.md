@@ -53,7 +53,7 @@ for people to experiment as cost of experimentation is pretty low.(material valu
 There are jewellery designers that upload in the internet, but it is mostly one customer wanting 
 to get something that other has.(FOMO aka market standards :P)
 
-** What is work like **
+**What is work usually like:**
 
 He says it varies based on the order but i will try to summarise steps for the above picture
 - Gold biscuit is cut into pieces
