@@ -14,6 +14,7 @@ a software engineer. This father's day I've spent some time analysing his busine
 hope you have fun reading it!
 
 **How it all started?** 
+
 My dad was learning the skill at his uncle's business and didn't see enough growth
 potential, so he decided to start on his own. 
 When i asked him what gave him enough confidence that he will acquire customers, he 
@@ -82,6 +83,8 @@ He says that it has changed a lot since but he doesn't see it going fully automa
 He is obviously happy about it(Why wouldn't he? :P) and says he would rather be obsessed about something that 
 has good value.
 He says it makes customers happy to have ornaments and it is what the whole world is about.(deep :P)
+
+**Conclusion:**
 
 Hope you had fun reading it, pretty sure you will find someone you know that would love
 to talk about their work. I also hope this article makes him realise his work is as challenging 
