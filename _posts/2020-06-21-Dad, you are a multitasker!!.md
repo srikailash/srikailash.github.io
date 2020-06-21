@@ -24,10 +24,9 @@ third parties which kept him busy during the initial stages.
 He very passionately says that it's a great feeling to see customers starting with small orders and 
 then growing financially to make big orders. 
 
-<h4>{{ My analysis of his work:" | downcase }}</h4>
+<h4>{{ "My analysis of his work:" | downcase }}</h4>
 
-
-# Requirement gathering:
+<h10>{{ "Requirements gathering:" | downcase }}</h10>
 Requirements are ususally arond weight, durability and less service charges
 Designs are usually downloaded from the web or design catalogues or pictures 
 of a similar orders(in most cases).
