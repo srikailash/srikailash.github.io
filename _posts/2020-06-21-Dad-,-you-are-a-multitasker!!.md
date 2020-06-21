@@ -25,6 +25,10 @@ third parties which kept him busy during the initial stages.
 He very passionately says that it's a great feeling to see customers starting with small orders and 
 then growing financially to make big orders. 
 
+
+Let's jump into the customer journey.
+
+
 **Requirements gathering:**
 
 Requirements are ususally arond weight, durability and less service charges
