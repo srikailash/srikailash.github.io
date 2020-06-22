@@ -33,13 +33,13 @@ Let's jump into the customer journey.
 
 **Requirements gathering:**
 
-Requirements are usually around design, weight, durability and less service charges
+Requirements are usually around design, weight, durability and less service charges.
 Designs can be downloaded from the web or design catalogues or pictures 
-of a similar orders(in most cases).
+of similar orders(in most cases).
 
 **work debt(in any form):**
 
-Since tech debt is a big thing, i asked him if they have similar problems. 
+Since tech debt is a big thing, i asked him if they have similar problems,
 Apparenly, value of hours spent is far less than material costs, so it is easier to get 
 the original material back and re-do it. 
 
@@ -51,20 +51,20 @@ for people to experiment as cost of experimentation is pretty low.(material valu
 **Designs:**
 
 There are jewellery designers that upload in the internet, but it is mostly one customer wanting 
-to get something that other has.(FOMO aka market standards :P)
+to get something others have.(FOMO aka market standards :P)
 
 **What is work usually like:**
 
-He says it varies based on the order but i will try to summarise steps for the above picture
+He says it varies based on the order, I will try to summarise steps for above picture
 - Gold biscuit is cut into pieces
 - It is melted and turned to a sheet
-- Cutting into required shape and drilling for stones
-- fitting stones
-- polishing
+- Then it's cut into required shape and drilling is done for stones
+- Stones are fit
+- Then it's polished
 
 **Testing:**
 
-He said testing happens at every stage for durability and it is important to catch it in early 
+He said testing happens at every stage for durability and it is important to catch issues in early 
 phases.
 
 **Peak seasons:**
@@ -81,7 +81,7 @@ He says these are the factors that help to stand-out
 
 **Migrations:**
 
-He says that almost 70% of the order are migrations.(changing one ornament to another)
+He says that almost 70% of the orders are migrations.(Changing one ornament to another)
 Apparently, they can't escape migrations either.
 
 **Cost of failures:**
@@ -95,14 +95,16 @@ He says that it has changed a lot since but he doesn't see it going fully automa
 
 **What does he have to say about gold obsession?**
 
-He is obviously happy about it(Why wouldn't he? :P) and says he would rather be obsessed about something that 
+He is obviously happy about it(Why wouldn't he be? :P) and says he would rather be obsessed about something that 
 has good value.
+
 He says it makes customers happy to have ornaments and it is what the whole world is about.(deep :P)
 
 **Conclusion:**
 
 Hope you had fun reading it, pretty sure you will find someone you know that would love
-to talk about their work. I also hope this article makes him realise his work is as challenging 
-as an office job that he always thought he wanted to do.
+to talk about their work. 
 
-My mom also wants a mention in this article but i will probably write an article about her cooking :P
+I also hope this article makes him realise his work is as challenging as an office job that he always thought he wanted to do.
+
+My mom also wants a mention in this article but i will probably write a new one about her cooking :P
