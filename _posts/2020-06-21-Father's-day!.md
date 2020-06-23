@@ -102,8 +102,8 @@ He says it makes customers happy to have ornaments and it is what the whole worl
 
 **Conclusion:**
 
-Hope you had fun reading it, pretty sure you will find someone you know that would love
-to talk about their work. 
+Hope you had fun reading it, pretty sure you can find someone you know that would love
+to talk about their work and you can make them see it in a way they haven't had before.
 
 I also hope this article makes him realise his work is as challenging as an office job that he always thought he wanted to do.
 
