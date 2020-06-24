@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I try to solve problems through code!
+People tell me I'm funny, I really don't think so.
