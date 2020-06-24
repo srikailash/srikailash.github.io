@@ -75,7 +75,7 @@ longer during those and shorter normally.
 **Competition:**
 
 He says these are the factors that help to stand-out
-- Maintain customer engagement
+- Customer engagement
 - Faster delivery
 - Quality and durability
 
@@ -98,7 +98,7 @@ He says that it has changed a lot since but he doesn't see it going fully automa
 He is obviously happy about it(Why wouldn't he be? :P) and says he would rather be obsessed about something that 
 has good value.
 
-He says it makes customers happy to have ornaments and it is what the whole world is about.(deep :P)
+He says it makes customers happy to have ornaments and he said, "Son, it is what the whole world is going after".(Wisdom i guess!!)
 
 **Conclusion:**
 
