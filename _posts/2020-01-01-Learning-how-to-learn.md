@@ -3,6 +3,9 @@ layout: post
 title: Learning how to learn
 ---
 
+![_config.yml]({{ site.baseurl }}/images/learning.jpg)
+
+
 Me(so far): I wanna get good at something, I will just dedicate all my time to it.
 
 People: Hey Kailash, do you have a life?
