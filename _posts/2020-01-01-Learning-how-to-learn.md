@@ -3,7 +3,7 @@ layout: post
 title: Learning how to learn
 ---
 
-![_config.yml]({{ site.baseurl }}/images/learning.jpg)
+![_config.yml]({{ site.baseurl }}/images/learning.JPG)
 
 
 Me(so far): I wanna get good at something, I will just dedicate all my time to it.
