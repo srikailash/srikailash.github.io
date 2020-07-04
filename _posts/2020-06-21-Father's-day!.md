@@ -7,7 +7,7 @@ title: My analysis of my dad's work
 ![_config.yml]({{ site.baseurl }}/images/gold.jpg)
 
 
-I remember getting ready on Sunday mornings as a kid to go with my dad to 
+My dad makes gold ornaments, I remember getting ready on Sunday mornings as a kid to go with my dad to 
 deliver customer orders, but spent years after that very detached from his business
 being busy at school. I am very happy to finally be able to relate to his work as
 a software engineer. 
@@ -20,11 +20,11 @@ My dad was learning the skill at his uncle's business and didn't see enough grow
 potential, so he decided to start on his own. 
 When i asked him what gave him enough confidence that he will acquire customers, he 
 said his focus was on delivering good results for a few customers so they become loyal and return. 
-He also says that his low living costs made the move easier.
-He mentiones he had a friend who is already in business and is willing to outsource to trusted
+He also said that his low living costs made the move easier.
+He mentioned he had a friend who was already in business and was willing to outsource to trusted
 third parties which kept him busy during the initial stages.
 
-He very passionately says that it's a great feeling to see customers starting with small orders and 
+He very passionately said that it's a great feeling to see customers starting with small orders and 
 then growing financially to make big orders. 
 
 
@@ -45,7 +45,7 @@ the original material back and re-do it.
 
 **Experimentation:**
 
-He says he personally tries to keep things simple and not experiment but it is common 
+He said he personally tries to keep things simple and not experiment but it is common 
 for people to experiment as cost of experimentation is pretty low.(material value can always be retrieved)
 
 **Designs:**
@@ -55,7 +55,7 @@ to get something others have.(FOMO aka market standards :P)
 
 **What is work usually like:**
 
-He says it varies based on the order, I will try to summarise steps for above picture
+He said it varies based on the order, I will try to summarise steps for above picture
 - Gold biscuit is cut into pieces
 - It is melted and turned to a sheet
 - Then it's cut into required shape and drilling is done for stones
@@ -69,36 +69,36 @@ phases.
 
 **Peak seasons:**
 
-He says that marriage seasons and sravana masam are peak seasons and he usually work 
+He said that marriage seasons and sravana masam are peak seasons and he usually works 
 longer during those and shorter normally.
 
 **Competition:**
 
-He says these are the factors that help to stand-out
+He said these are the factors that help to stand-out
 - Customer engagement
 - Faster delivery
 - Quality and durability
 
 **Migrations:**
 
-He says that almost 70% of the orders are migrations.(Changing one ornament to another)
+He said almost 70% of the orders are migrations.(Changing one ornament to another)
 Apparently, they can't escape migrations either.
 
 **Cost of failures:**
 
 Pretty low as material can be extracted and can be re-done. 
-He says that worst case scenario is that he doesn't make any money on the order.
+He said worst case scenario is that he doesn't make any money on the order.
 
 **Future of work and views on automation:**
 
-He says that it has changed a lot since but he doesn't see it going fully automatatic.
+He said that it has changed a lot since he started but he doesn't see it going fully automatatic.
 
 **What does he have to say about gold obsession?**
 
-He is obviously happy about it(Why wouldn't he be? :P) and says he would rather be obsessed about something that 
+He is obviously happy about it(Why wouldn't he be? :P) and said he would rather be obsessed about something that 
 has good value.
 
-He says it makes customers happy to have ornaments and he said, "Son, it is what the whole world is going after".(Wisdom i guess!!)
+He said it makes customers happy to have ornaments and he said, "Son, it is what the whole world is going after".(Wisdom i guess!!)
 
 **Conclusion:**
 
