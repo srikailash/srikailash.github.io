@@ -8,7 +8,7 @@ title: Some talks/blogs i would love to watch/read again!
       <div class="entry">
         <a href="https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives">The moral roots of Liberals and Conservatives</a><br>
         I always like talks/discussions that look for causes than being on surface.<br>
-        In this talk, he gives a great insight into on role religion plays in shaping society.<br>
+        In this talk, he gives a great insight on role religion plays in shaping society.<br>
         His POV on Grand Canyon vs older civilisations is really interesting.<br>
       </div>
         <br>
