@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Minimalist
+I started to learn Piano this year(2019) and managed to record my first recognisable song :P
