@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-I started to learn Piano this year(2019) and managed to record my first recognisable song :P
+Thanks for stopping by!
+About me: Every introvert trait that you read online :)
