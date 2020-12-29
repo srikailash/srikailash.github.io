@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Thanks for stopping by!<br>
+Hello there, thanks for stopping by!<br>
 About me: Every introvert trait that you read online :)
