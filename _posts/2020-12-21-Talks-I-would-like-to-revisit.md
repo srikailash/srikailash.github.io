@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some talks/blogs i would love to watch/read again!
+title: Talks/Blogs I liked
 ---
 
 <div class="posts">
