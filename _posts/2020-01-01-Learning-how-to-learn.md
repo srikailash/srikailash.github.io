@@ -5,17 +5,7 @@ title: Learning how to learn
 
 ![_config.yml]({{ site.baseurl }}/images/learning.JPG)
 
-
-Me(so far): I wanna get good at something, I will just dedicate all my time to it.
-
-People: Hey Kailash, do you have a life?
-
-Me(secretly wondering): What's life?
-
-Me again(after contemplation): Life is about creating memories. I also want to create
-memories outside learning things, but i really like learning.
-
-These are a few points that i wanna keep in mind to make my learning efficient so i can also have a "life"
+Things that help learning better.
 
 1. Focus on the core thing that you are looking to learn.
 This can be answered by approaching material with questions.
