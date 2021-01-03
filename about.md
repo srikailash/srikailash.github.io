@@ -14,5 +14,4 @@ I'm very happy about the impact I'm able to make by working on technology and ho
 would continue. <br>
 <br>
 Outside work, I really enjoy travelling, reading fiction, getting lost in the city with my bike, <br>
-meeting friends for coffee, learning to play the piano. I made a recording for a song here:
-<a href="https://drive.google.com/file/d/1UT_0kSIONFVBw2BrqGbmcOAmLb5Xbvuy/view?usp=sharing"> <br>
+meeting friends for coffee, learning to play the piano.<br>
