@@ -30,7 +30,7 @@ title: Talks/Blogs I liked
       <br>
       <br>
       <div class="entry">
-        <a href="https://jvns.ca/blog/2018/09/30/some-possible-career-goals/">Some possible carrer goals</a><br>
+        <a href="https://jvns.ca/blog/2018/09/30/some-possible-career-goals/">Some possible career goals</a><br>
           This post has really changed the way i look at work and career. Definitely recommed giving it a read<br>
       </div>
       <br>
