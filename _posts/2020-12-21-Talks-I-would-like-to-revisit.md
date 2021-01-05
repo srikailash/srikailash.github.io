@@ -27,7 +27,17 @@ title: Talks/Blogs I liked
         I come from a town next to river Godavari and once every 12 years godavari pushkaralu happen(it is believed bath in Godavari during those 12days brings good fortune).<br>
         Being a huge fan of swimming(indoor and river/lake) makes me like this talk even more :)<br>
       </div>
-
-
+      <br>
+      <br>
+      <div class="entry">
+        <a href="https://jvns.ca/blog/2018/09/30/some-possible-career-goals/">Some possible carrer goals</a><br>
+          This post has really changed the way i look at work and career. Definitely recommed giving it a read<br>
+      </div>
+      <br>
+      <br>
+      <div class="entry">
+        <a href="https://www.ted.com/talks/sarah_brosnan_why_monkeys_and_humans_are_wired_for_fairness/">Why monkeys(and humans) are wired for fairness</a><br>
+          Unfair things really upset me a lot. She mentioned to question should we give up some part of our share just because we are treated unfair. Thanks a lot to her for expanding my thought process<br>
+      </div>
     </article>
 </div>
