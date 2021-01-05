@@ -24,7 +24,7 @@ title: Talks/Blogs I liked
         <a href="https://www.ted.com/talks/kelsey_leonard_why_lakes_and_rivers_should_have_the_same_rights_as_humans">Why lakes and rivers should have the same rights as humans</a><br>
         I really like this talk because it draws our attention to something that's often overlooked<br>
         She clearly explains the reason behind major hindu traditions of praying rivers<br>
-        I come from a town next to river Godavari and once every 12 years godavari pushkaralu happen(it is believed bath in Godavari during those 12days brings good fortune). I have first hand experience with the reforms that brings to the city(thanks to Godavari)<br>
+        I come from a town next to river Godavari and once every 12 years godavari pushkaralu happen(it is believed bath in Godavari during those 12days brings good fortune). I have first-hand experience with the reforms that brings to the city(thanks to Godavari)<br>
         Being a huge fan of swimming(indoor and river/lake) makes me like this talk even more :)<br>
       </div>
       <br>
