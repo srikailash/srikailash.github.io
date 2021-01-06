@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My analysis of my dad's work
+title: Analysis of my dad's work
 ---
 
 
