@@ -21,8 +21,7 @@ title: Talks/Blogs I liked
       <br>
       <div class="entry">
         <a href="https://www.ted.com/talks/chieh_huang_confessions_of_a_recovering_micromanager?language=en">Confessions of a recovering micromanager</a><br>
-        Oh boy! he is super funny<br>
-        This talk made me realise how small details can radically change the experience<br>
+        This talk made me realise how small details can radically change the experience. Definitely chuckled a lot watching it!<br>
       </div>
       <br>
       <br>
