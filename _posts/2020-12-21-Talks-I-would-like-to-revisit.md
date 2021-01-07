@@ -7,8 +7,8 @@ title: Talks/Blogs I liked
     <article class="post">
       <div class="entry">
         <a href="https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives">The moral roots of Liberals and Conservatives</a><br>
-        I always like talks/discussions that look for causes than being on surface.<br>
-        In this talk, he gives a great insight on role religion plays in shaping society.<br>
+        It like that this talk is very analytical.<br>
+        He gives a great insight on role religion plays in shaping society.<br>
         His POV on Grand Canyon vs older civilisations is really interesting.<br>
       </div>
       <br>
@@ -26,11 +26,14 @@ title: Talks/Blogs I liked
       <br>
       <br>
       <div class="entry">
-        <a href="https://www.ted.com/talks/kelsey_leonard_why_lakes_and_rivers_should_have_the_same_rights_as_humans">Why lakes and rivers should have the same rights as humans</a><br>
-        I really like this talk because it draws our attention to something that's often overlooked<br>
-        She clearly explains the reason behind major hindu traditions of praying rivers<br>
-        I come from a town next to river Godavari and once every 12 years godavari pushkaralu happen(it is believed bath in Godavari during those 12days brings good fortune). I have first-hand experience with the reforms that brings to the city(thanks to Godavari)<br>
-        Being a huge fan of swimming(indoor and river/lake) makes me like this talk even more :)<br>
+        <a href="https://www.youtube.com/watch?v=hkHvDOPNI1w">Peter Thiel on Aspergers</a><br>
+          Not once I had issues communicating with some loud mouthed extroverted person who thinks(or doesn't) AFTER speaking. There were times I thought there was something wrong with my communication style. Thanks to Peter Thiel and Susan Cain for shedding some light on the issue. Also being in engineering gave me opportunity to meet co-workers and bosses that are more on the side Peter Thiel mentions in the video :)<br>
+      </div>
+      <br>
+      <br>
+      <div class="entry">
+        <a href="https://www.ted.com/talks/sarah_brosnan_why_monkeys_and_humans_are_wired_for_fairness/">Why monkeys(and humans) are wired for fairness</a><br>
+          Questioning how much we give up because we are treated unfair is a great insight from this talk.<br>
       </div>
       <br>
       <br>
