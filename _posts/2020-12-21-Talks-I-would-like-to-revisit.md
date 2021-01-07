@@ -3,14 +3,10 @@ layout: post
 title: Talks/Blogs I liked
 ---
 
-<div class="posts">
-    <article class="post">
-      <div class="entry">
         <a href="https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives">The moral roots of Liberals and Conservatives</a><br>
         It like that this talk is very analytical.<br>
         He gives a great insight on role religion plays in shaping society.<br>
         His POV on Grand Canyon vs older civilisations is really interesting.<br>
-      </div>
       <br>
       <br>
       <div class="entry">
@@ -44,5 +40,3 @@ title: Talks/Blogs I liked
         I come from a town next to river Godavari and once every 12 years godavari pushkaralu happen(it is believed bath in Godavari during those 12days brings good fortune). I have first-hand experience with the reforms that brings to the city(thanks to Godavari)<br>
         Being a huge fan of swimming(indoor and river/lake) makes me like this talk even more :)<br>
       </div>
-    </article>
-</div>
