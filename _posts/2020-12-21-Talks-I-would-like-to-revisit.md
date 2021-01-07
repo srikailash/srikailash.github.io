@@ -9,6 +9,8 @@ He gives a great insight on role religion plays in shaping society.
 His POV on Grand Canyon vs older civilisations is really interesting.
 <br>
 <br>
+
+
 <div>
 <a href="https://jvns.ca/blog/2018/09/30/some-possible-career-goals/">Some possible career goals</a><br>
 </div>
