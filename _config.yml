@@ -11,6 +11,7 @@ description: Is there life on Mars?
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/srikailash/srikailash.github.io/master/images/profile-pic.jpg
 
+show_excerpts: true # set to true to show excerpts on the homepage
 #
 # Flags below are optional
 #
@@ -76,6 +77,10 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+
+plugins:
+  - jekyll-seo-tag
 
 # Exclude these files from your production _site
 exclude:
