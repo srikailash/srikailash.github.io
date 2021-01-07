@@ -28,7 +28,9 @@ This talk made me realise how small details can radically change the experience.
 <div>
 <a href="https://www.youtube.com/watch?v=hkHvDOPNI1w">Peter Thiel on Aspergers</a><br>
 </div>
-Not once I had issues communicating with some loud mouthed extroverted person who thinks(or doesn't) AFTER speaking. There were times I thought there is something wrong with my communication style. Thanks to Peter Thiel and Susan Cain for shedding some light on the issue. Also being in engineering gave me opportunity to meet co-workers and bosses that are more on the side Peter Thiel mentions in the video. Any introvert reading this, it gets waaaaay better with time, trust me :)
+Not once I had issues communicating with some loud mouthed extroverted person who thinks(or doesn't) AFTER speaking. There were times I thought there is something wrong with my communication style. Thanks to Peter Thiel and Susan Cain for shedding some light on the issue. Also being in engineering gave me opportunity to meet co-workers and bosses that are more on the side Peter Thiel mentions in the video. Any introvert reading this, it gets waaaaay better with time, trust me :)<br>
+On a similar note, I read through this book: <a href="https://www.goodreads.com/book/show/50272271-the-hunter-gatherer-neurotribe">Gifted, geeks, aspies and other aliens in this world</a><br>
+Such an extensive reserch from Andreas Hofer. Thank you very much!
 <br>
 <br>
 <div>
