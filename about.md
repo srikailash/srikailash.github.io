@@ -17,4 +17,4 @@ I'm very happy about the impact I'm able to make by working on technology.<br>
 Outside work, I enjoy travelling, reading fiction, going around the city with my bike, <br>
 meeting friends for coffee, learning to play the piano. I love swimming and have been doing that regularly for years.<br>
 <br>
-I recently took the MBTI personality test and figured out I'm an INTJ. Only wish i had known that before.
+A few years(4) ago I decided to deactivate my Facebook and LinkedIn profiles, a very good decision for my mental health and currently working with a <a href="https://www.instagram.com/one.gautham/">friend</a> on releasing a social app.
