@@ -20,7 +20,8 @@ His insight on role religion plays in shaping society and POV on Grand Canyon vs
 <div>
 <a href="https://jvns.ca/blog/2018/09/30/some-possible-career-goals/">Some possible career goals</a><br>
 </div>
-  This post has really changed the way i look at work and career. Definitely recommed giving it a read
+  This post has really changed the way i look at work and career. Definitely recommed giving it a read and checking out
+  her other posts.
 <br>
 <br>
 <div>
