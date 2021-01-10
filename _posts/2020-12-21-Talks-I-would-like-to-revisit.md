@@ -35,7 +35,7 @@ This talk made me realise how small details can radically change the experience.
 </div>
 Not once I had issues communicating with some loud mouthed extroverted person who thinks(or doesn't) AFTER speaking. There were times I thought(wrongly) there is something wrong with my communication style. Thanks to Peter Thiel and Susan Cain for shedding some light on the issue. Also being in engineering gave me opportunity to meet co-workers and bosses that are more on the side Peter Thiel mentions in the video.<br>
 On a similar note, I read through this book: <a href="https://www.goodreads.com/book/show/50272271-the-hunter-gatherer-neurotribe">Gifted, geeks, aspies and other aliens in this world</a><br>
-Such an extensive reserch from Andreas Hofer. Very well done!
+Such an extensive reserch from Andreas Hofer. Very well done and wish I had a school teacher like him!
 <br>
 <br>
 <div>
