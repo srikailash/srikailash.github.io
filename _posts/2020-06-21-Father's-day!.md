@@ -98,12 +98,12 @@ He said that it has changed a lot since he started but he doesn't see it going f
 He is obviously happy about it(Why wouldn't he be? :P) and said he would rather be obsessed about something that 
 has good value.
 
-He said it makes customers happy to have ornaments and he said, "Son, it is what the whole world is going after".(Wisdom i guess!!)
+He said it makes customers happy to have ornaments and that's good enough metric.
 
 **Conclusion:**
 
 Hope you had fun reading it, pretty sure you can find someone you know that would love
-to talk about their work and you can make them see it in a way they haven't had before.
+to talk about their work and you can make them see it in a way they haven't before.
 Writing this made me learn things about my dad that i wouldn't have known otherwise.
 
 I also hope this article makes him realise his work is as challenging as an office job that he always thought he wanted to do.
