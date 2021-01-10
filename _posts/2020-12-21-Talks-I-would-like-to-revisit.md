@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Content that I found useful
+title: A few interesting things I've read/watched
 ---
 
 I am greatly inspired by <a href="http://www.paulgraham.com/articles.html">Paul Graham's essays</a> and adapted
