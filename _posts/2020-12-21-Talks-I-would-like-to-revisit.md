@@ -3,9 +3,7 @@ layout: post
 title: A few interesting things I've read/watched
 ---
 
-I am greatly inspired by <a href="http://www.paulgraham.com/articles.html">Paul Graham's essays</a> and adapted
-his idea to share content that would be helpful to readers. I will write down here about new things i discovered
-and things i wish someone had told me.
+I am greatly inspired by Paul Graham's essays and adapted his idea to share content that would be helpful to readers. I will write down here about new things i discovered and things i wish someone had told me.
 
 <br>
 <div>
@@ -33,7 +31,7 @@ This talk made me realise how small details can radically change the experience.
 <div>
 <a href="https://www.youtube.com/watch?v=hkHvDOPNI1w">Peter Thiel on Aspergers</a><br>
 </div>
-Not once I had issues communicating with some loud mouthed extroverted person who thinks(or doesn't) AFTER speaking. There were times I thought(wrongly) there is something wrong with my communication style. Thanks to Peter Thiel and Susan Cain for shedding some light on the issue. Also being in engineering gave me opportunity to meet co-workers and bosses that are more on the side Peter Thiel mentions in the video.<br>
+Thanks to Peter Thiel and Susan Cain for shedding some light on the issue many people(me all the time during early 20s) face. Also being in engineering gave me opportunity to meet co-workers and bosses that are more on the side Peter Thiel mentions in the video.<br>
 On a similar note, I read through this book: <a href="https://www.goodreads.com/book/show/50272271-the-hunter-gatherer-neurotribe">Gifted, geeks, aspies and other aliens in this world</a><br>
 Such an extensive reserch from Andreas Hofer. Very well done and wish I had a school teacher like him!
 <br>
@@ -41,7 +39,7 @@ Such an extensive reserch from Andreas Hofer. Very well done and wish I had a sc
 <div>
 <a href="https://www.ted.com/talks/sarah_brosnan_why_monkeys_and_humans_are_wired_for_fairness/">Why monkeys(and humans) are wired for fairness</a><br>
 </div>
-Questioning how much we give up because we are treated unfair is a great insight from this talk.
+Questioning how much we give up just because we are treated unfair is a great insight from this talk.
 <br>
 <br>
 <div>
@@ -49,5 +47,7 @@ Questioning how much we give up because we are treated unfair is a great insight
 </div>
 I really like this talk because it draws our attention to something that's often overlooked<br>
 She clearly explains the reason behind major hindu traditions of praying rivers<br>
-I come from a town next to river Godavari and once every 12 years godavari pushkaralu happen(it is believed bath in Godavari during those 12days brings good fortune). I have first-hand experience with the reforms that brings to the city(thanks to Godavari)<br>
-Being a huge fan of swimming(indoor and river/lake) makes me like this talk even more :)<br>
+I have first-hand experience with the reforms that Godavari brings to the city I'm from<br>
+
+Links:
+1. <a href="http://www.paulgraham.com/articles.html">Paul Graham's essays</a>
