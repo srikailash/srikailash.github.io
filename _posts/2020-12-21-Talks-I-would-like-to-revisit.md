@@ -1,7 +1,11 @@
 ---
 layout: post
-title: Talks/Blogs I liked
+title: Content that I found useful
 ---
+
+I am greatly inspired by <a href="http://www.paulgraham.com/articles.html">Paul Graham's essays</a> and adapted
+his idea to share content that would be helpful to readers. I will write down here about new things i discovered
+and things i wish someone had told me.
 
 <br>
 <div>
