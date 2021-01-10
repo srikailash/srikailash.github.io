@@ -27,7 +27,7 @@ His insight on role religion plays in shaping society and POV on Grand Canyon vs
 <div>
 <a href="https://www.ted.com/talks/chieh_huang_confessions_of_a_recovering_micromanager?language=en">Confessions of a recovering micromanager</a><br>
 </div>
-This talk made me realise how small details can radically change the experience. Definitely chuckled a lot watching it!
+This talk made me realise how small details can radically change the experience. Worth watching for the laugh!
 <br>
 <br>
 <div>
