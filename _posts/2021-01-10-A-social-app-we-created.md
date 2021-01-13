@@ -19,7 +19,7 @@ This experience(or hey, life in general :p) has taught me a lot and especially t
 So, me and <a href="https://www.instagram.com/one.gautham/Gautham">Gautham</a> came up with the idea of an app to form exclusive online communities based on interests. Users can vouch each other for up to 3 different hashtags and societies are discoverable based on that social graph.<br>
 For instance, Gautham vouched me for swimming, programming and travelling. Now communities that are exclusive to programmers are discoverable for me to join.
 
-I will share apk if you would like to give it a try. Building Leet helped me work with my high school friend and I would love to hear stories about making new friends based on a common interest or finding new interest through Leet.
+I will share apk if you would like to give it a try. Building Leet helped me work with my high school friend and I would love to hear stories about making new friends based on a common interest or finding a new interest through Leet.
 
 Among other things, working on Leet taught me UX design is super fun and kudos to Gautham for amazing designs. Big thanks to Awni for working on the frontend flutter part. I worked on the backend part and would be happy to discuss tech/improvements.
 
