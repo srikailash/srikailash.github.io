@@ -3,7 +3,7 @@ layout: post
 title: A few interesting things I've read/watched
 ---
 
-I am greatly inspired by Paul Graham's essays and adapted his idea to share content that would be helpful to readers. I will write down here about new things i discovered and things i wish someone had told me.
+I am greatly inspired by Paul Graham's essays[1] and adapted his idea to share content that would be helpful to readers. I will write down here about new things i discovered and things i wish someone had told me.
 
 <br>
 <div>
