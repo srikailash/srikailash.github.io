@@ -47,7 +47,7 @@ Questioning how much we give up just because we are treated unfair is a great in
 </div>
 I really like this talk because it draws our attention to something that's often overlooked<br>
 She clearly explains the reason behind major hindu traditions of praying rivers<br>
-I have first-hand experience with the reforms that Godavari brings to the city I'm from<br>
+I have first-hand experience with reforms river Godavari brings to the city I'm from<br>
 
 Links:
 1. <a href="http://www.paulgraham.com/articles.html">Paul Graham's essays</a>
