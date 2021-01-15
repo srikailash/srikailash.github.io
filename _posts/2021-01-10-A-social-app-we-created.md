@@ -16,7 +16,7 @@ I tried going to meetups but I couldn't make any <a href="https://www.youtube.co
 
 This experience(or... hey, life in general :p) has taught me a lot and especially the importance of social life and how it really affects your mental health. If you have special interests and narrow minded focus, it is easy to be trapped in a feeling of being anti-social. But interests themselves can restore much needed community and sense of purpose and I think Leet becomes a great place for those to be social in their own worlds by being selectively social.
 
-So, me and <a href="https://www.instagram.com/one.gautham/Gautham">Gautham</a> came up with the idea of an app to form exclusive online communities. Users can create communities(or groups) with hashtags and can vouch each other for up to 3 different hashtags. Now communities are discoverable by users based on that social graph making sure right communities are found by right user.<br>
+So, me and <a href="https://www.instagram.com/one.gautham/Gautham">Gautham</a> came up with the idea of an app to form exclusive online communities. Users can create communities(or groups) with hashtags and can vouch each other for up to 3 different hashtags. Now communities are discoverable by users based on that social graph making sure right communities are found by right users.<br>
 For instance, Gautham vouched me for swimming, programming and travelling. Now communities that are exclusive to programmers are discoverable for me to join.
 
 I am happy to have worked with my high school friend while building Leet and would love to hear stories about making new friends or finding a new interest through Leet. Among other things, this taught me how much it takes to take a product to the finish line.<br>
