@@ -5,8 +5,8 @@ title: A social app we created
 
 ![_config.yml]({{ site.baseurl }}/images/Leet.jpg)
 
-
-Hope you are having a great start of the year 2021!<br>
+<br>
+Hello there, hope you are having a great start of the year 2021!<br>
 Before I start with the app details I will tell you how we came up with the idea:
 
 After graduation, I moved to Amsterdam for my first job and thankfully I had a <a href="https://www.instagram.com/arihantgupta0/">friend</a> that took off some of the social burden(aka making new friends) that comes with moving.
