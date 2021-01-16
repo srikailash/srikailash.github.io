@@ -21,6 +21,6 @@ For instance, Gautham vouched me for swimming, programming and travelling. Now c
 
 I am happy to have worked with my high school buddy while building Leet and would love to hear stories about making new friends or finding a new interest through Leet. Among other things, this has taught me how much it takes to take a product to the finish line.<br>
 
-Kudos to Gautham for all the amazing designs. Big thanks to Awni for working on the frontend flutter part. I worked on the backend and would be happy to discuss tech/improvements.
+Kudos to Gautham for all the amazing designs, very creative. Big thanks to Awni for working on the frontend flutter part. I worked on the backend and would be happy to discuss tech/improvements.
 
 I will share the apk if you would like to give it a try. We are still working on refining the application, any feedback is welcome!
