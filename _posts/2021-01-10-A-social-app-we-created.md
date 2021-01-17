@@ -14,7 +14,7 @@ After graduation, I moved to Amsterdam(Yay!!) for my first job and thankfully I 
 For my second job, I moved to Berlin without knowing anyone in the city.
 I tried going to meetups but I couldn't make any <a href="https://www.youtube.com/watch?v=iJUM11goXAU">connections</a> due to topics of discussion being too broad(COVID-19 lockdown only making things worse).
 
-To my relief, my high school friend <a href="https://www.instagram.com/one.gautham/Gautham">Gautham</a> also moved to Berlin a month later from Zurich and he has had similar experiences too.
+To my relief, my high school friend <a href="https://www.instagram.com/one.gautham/">Gautham</a> also moved to Berlin a month later from Zurich and he has had similar experiences too.
 
 This experience(or... hey, "life" in general :p) has taught us a lot. Especially the importance of social life and how it really affects your mental health. It is easy to be trapped in a feeling of not being social if you have special interests and narrow minded focus. But interests themselves can restore much needed community and sense of purpose by enabling selective socialising.
 
