@@ -14,9 +14,9 @@ After graduation, I moved to Amsterdam(Yay!!) for my first job and thankfully I 
 For my second job, I moved to Berlin without knowing anyone in the city.
 I tried going to meetups but I couldn't make any <a href="https://www.youtube.com/watch?v=iJUM11goXAU">connections</a> due to topics of discussion being too broad(COVID-19 lockdown only making things worse).
 
-To my relief, my high school friend <a href="https://www.instagram.com/one.gautham/Gautham">Gautham</a> also moved to Berlin a month later from Zurich and he has had similar experiences.
+To my relief, my high school friend <a href="https://www.instagram.com/one.gautham/Gautham">Gautham</a> also moved to Berlin a month later from Zurich and he has had similar experiences too.
 
-This experience(or... hey, "life" in general :p) has taught me a lot. Especially the importance of social life and how it really affects your mental health. It is easy to be trapped in a feeling of not being social if you have special interests and narrow minded focus. But interests themselves can restore much needed community and sense of purpose by enabling selective socialising.
+This experience(or... hey, "life" in general :p) has taught us a lot. Especially the importance of social life and how it really affects your mental health. It is easy to be trapped in a feeling of not being social if you have special interests and narrow minded focus. But interests themselves can restore much needed community and sense of purpose by enabling selective socialising.
 
 So, me and Gautham came up with an app idea to form exclusive online communities. Users can create communities(think online groups) with hashtags and can vouch each other for up to 3 different hashtags. Now communities are discoverable by users based on that social graph making sure right communities are found by right users.<br>
 For instance, Gautham vouched me for swimming, programming and travelling. Now communities that are exclusive to programmers are discoverable for me to join.
