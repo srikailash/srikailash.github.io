@@ -21,8 +21,8 @@ This experience(or... hey, "life" in general :p) has taught us a lot. Especially
 So, me and Gautham came up with an app idea to form exclusive online communities. Users can create communities(think online groups) with hashtags and can vouch each other for up to 3 different hashtags. Now communities are discoverable by users based on that social graph making sure right communities are found by right users.<br>
 For instance, Gautham vouched me for swimming, programming and travelling. Now communities that are exclusive to programmers are discoverable for me to join.
 
-I am happy to have worked with my high school friend on this and would love to hear stories about making new friends or finding a new interest through Leet. Among other things, this has taught me how much it takes to take a product to the finish line.<br>
+That's for userflow. I would love to hear stories about making new friends or finding a new interest through Leet. Among other things, this has taught me how much it takes to take a product to the finish line.<br>
 
-Kudos to Gautham for all the amazing designs, work of art :). Big thanks to Awni for working on the frontend flutter part and everyone that tried and gave feedback. I worked on the backend.
+Kudos to Gautham for all the amazing designs, work of art :). Happy to have worked with him after years and apparently he is much better at this than chemistry titrations, haha. Big thanks to Awni for working on the frontend flutter part and everyone that helped with initial feedback. I worked on the backend.
 
 I will share the apk if you would like to give it a try. We are still working on refining the application, any feedback is welcome!
