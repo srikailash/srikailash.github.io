@@ -9,7 +9,7 @@ title: A social app we created
 Hello there, hope you are having a great start of the year 2021!<br>
 Before I start with the app details I will tell you how we came up with the idea.
 
-After graduation, I moved to Amsterdam(Yay!!) for my first job and thankfully I had a <a href="https://www.instagram.com/arihantgupta0/">friend</a> that took off some of the social burden(aka making new friends) that comes with moving.
+After graduation, I moved to Amsterdam for my first job and thankfully I had a <a href="https://www.instagram.com/arihantgupta0/">friend</a> that took off some of the social burden(aka making new friends) that comes with moving.
 
 For my second job, I moved to Berlin without knowing anyone in the city.
 I tried going to meetups but I couldn't make any <a href="https://www.youtube.com/watch?v=iJUM11goXAU">connections</a> due to topics of discussion being too broad(COVID-19 lockdown only making things worse).
@@ -23,6 +23,6 @@ For instance, Gautham vouched me for swimming, programming and travelling. Now c
 
 That's for userflow. I would love to hear stories about making new friends or finding a new interest through Leet. Among other things, this has taught me how much it takes to take a product to the finish line.<br>
 
-Kudos to Gautham for all the amazing designs, work of art :). Happy to have worked with him after years and apparently he is much better at this than chemistry titrations, haha. Big thanks to Awni for working on the frontend flutter part and everyone that helped with initial feedback. I worked on the backend.
+Kudos to Gautham for all the amazing designs, work of art :). Happy to have worked with him after years and apparently he is much better at this than chemistry titrations :p. Big thanks to Awni for working on the frontend flutter part and everyone that helped with initial feedback. I worked on the backend.
 
 I will share the apk if you would like to give it a try. We are still working on refining the application, any feedback is welcome!
