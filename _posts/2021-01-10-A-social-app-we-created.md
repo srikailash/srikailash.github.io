@@ -23,6 +23,6 @@ For instance, Gautham vouched me for swimming, programming and travelling. Now c
 
 That's for userflow. I would love to hear stories about making new friends or finding a new interest through Leet. Among other things, this has taught me how much it takes to take a product to the finish line.<br>
 
-Kudos to Gautham for all the amazing designs, work of art :). Happy to have worked with him after years and apparently he is much better at this than chemistry titrations :p. Big thanks to Awni for working on the frontend flutter part and everyone that helped with initial feedback. I worked on the backend.
+Kudos to Gautham for all the amazing designs, definitely a work of art :). Happy to have worked with him after years and apparently he is much better at this than chemistry titrations :p. Big thanks to Awni for all the flutter code and everyone that helped with initial feedback. I took care of the backend.
 
-I will share the apk if you would like to give it a try. We are still working on refining the application, any feedback is welcome!
+I will share the apk if you would like to give it a try. We are still on refining the application, any feedback is welcome!
