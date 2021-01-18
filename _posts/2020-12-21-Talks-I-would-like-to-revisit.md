@@ -47,7 +47,14 @@ Questioning how much we give up just because we are treated unfair is a great in
 </div>
 I really like this talk because it draws our attention to something that's often overlooked<br>
 She clearly explains the reason behind major hindu traditions of praying rivers<br>
-I have first-hand experience with reforms river Godavari brings to the city I'm from<br>
+I have first-hand experience with reforms river Godavari brings to the city I'm from
+<br>
+<br>
+<div>
+<a href="https://www.ted.com/talks/benjamin_zander_the_transformative_power_of_classical_music">The transformative power of
+classical music</a></br>
+Always been a big fan of music. This talk is very moving!
+</div>
 
 Links:
 1. <a href="http://www.paulgraham.com/articles.html">Paul Graham's essays</a>
