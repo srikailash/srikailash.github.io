@@ -53,8 +53,9 @@ I have first-hand experience with reforms river Godavari brings to the city I'm 
 <div>
 <a href="https://www.ted.com/talks/benjamin_zander_the_transformative_power_of_classical_music">The transformative power of
 classical music</a></br>
-Always been a big fan of music. This talk is very moving!
 </div>
+Always been a big fan of music. This talk is very moving just like music itself is!
+
 
 Links:
 1. <a href="http://www.paulgraham.com/articles.html">Paul Graham's essays</a>
