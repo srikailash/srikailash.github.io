@@ -14,7 +14,6 @@ His insight on role religion plays in shaping society and POV on Grand Canyon vs
 <br>
 <br>
 
-
 <div>
 <a href="https://jvns.ca/blog/2018/09/30/some-possible-career-goals/">Some possible career goals</a><br>
 </div>
@@ -22,12 +21,21 @@ His insight on role religion plays in shaping society and POV on Grand Canyon vs
   her other posts.
 <br>
 <br>
+
+<div>
+<a href="https://www.youtube.com/watch?v=eRfXcWT_oFs">Inspirational Writing Advice From Charlie Kaufman</a><br>
+</div>
+  This is by far the best speech I've listened to. I wish I could really meet him at a party he described.
+<br>
+<br>
+
 <div>
 <a href="https://www.ted.com/talks/chieh_huang_confessions_of_a_recovering_micromanager?language=en">Confessions of a recovering micromanager</a><br>
 </div>
 This talk made me realise how small details can radically change the experience. Worth watching for the laugh!
 <br>
 <br>
+
 <div>
 <a href="https://www.youtube.com/watch?v=hkHvDOPNI1w">Peter Thiel on Aspergers</a><br>
 </div>
@@ -36,12 +44,14 @@ On a similar note, I read through this book: <a href="https://www.goodreads.com/
 Such an extensive reserch from Andreas Hofer. Very well done and wish I had a school teacher like him!
 <br>
 <br>
+
 <div>
 <a href="https://www.ted.com/talks/sarah_brosnan_why_monkeys_and_humans_are_wired_for_fairness/">Why monkeys(and humans) are wired for fairness</a><br>
 </div>
 Questioning how much we give up just because we are treated unfair is a great insight from this talk.
 <br>
 <br>
+
 <div>
 <a href="https://www.ted.com/talks/kelsey_leonard_why_lakes_and_rivers_should_have_the_same_rights_as_humans">Why lakes and rivers should have the same rights as humans</a><br>
 </div>
@@ -50,6 +60,7 @@ She clearly explains the reason behind major hindu traditions of praying rivers<
 I have first-hand experience with reforms river Godavari brings to the city I'm from
 <br>
 <br>
+
 <div>
 <a href="https://www.ted.com/talks/benjamin_zander_the_transformative_power_of_classical_music">The transformative power of
 classical music</a>
