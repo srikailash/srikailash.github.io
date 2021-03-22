@@ -17,5 +17,5 @@ I'm very happy about the impact I'm able to make by working on technology.<br>
 Outside work, I enjoy travelling, reading fiction, going around the city with my bike, <br>
 meeting friends for coffee, learning to play the piano. I love swimming and have been doing that regularly for years.<br>
 <br>
-I've always hated school as a kid/adult(YES, so much so I would put that in my bio), feeling grateful that I don't have to go to school again, haha.<br>
+I've always hated school as a kid/adult(YES, so much so I would put that in my bio), feeling grateful no school anymore, haha.<br>
 I work best when I can self pace or in small groups.
