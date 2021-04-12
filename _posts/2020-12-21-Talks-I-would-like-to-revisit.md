@@ -66,7 +66,15 @@ I have first-hand experience with reforms river Godavari brings to the city I'm 
 classical music</a>
 </div>
 Always been a big fan of music. This talk is very moving just like music itself is!
+<br>
+<br>
 
+<div>
+<a href="https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things?ac=1&from_search=true&qid=ihih0xoDz5&rank=1">The design of everyday things</a>
+</div>
+There are very few books that can shape your perspective and this book is one for me. A helpful insight I gathered from this book is to not always blame myself
+if I can't figure out how to use things. Also, I learned all the details designers have to take into consideration when building products.
+On a similar note, I also read <a href="https://www.goodreads.com/book/show/19404862-hooked">Hooked</a> which explains what makes users hook to something(habit/app/idea). It's interesting(read scary) to know how much analysis goes into affecting our sub conscious, haha
 
 Links:
 1. <a href="http://www.paulgraham.com/articles.html">Paul Graham's essays</a>
