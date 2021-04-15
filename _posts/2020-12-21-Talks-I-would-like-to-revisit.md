@@ -72,9 +72,32 @@ Always been a big fan of music. This talk is very moving just like music itself 
 <div>
 <a href="https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things?ac=1&from_search=true&qid=ihih0xoDz5&rank=1">The design of everyday things</a>
 </div>
-There are very few books that can shape your perspective and this book is one for me. A helpful insight I gathered from this book is to not always blame myself
+There are very few books that can shape your perspective and this is one for me. A helpful insight I gathered from this book is to not always blame myself
 if I can't figure out how to use things. Also, I learned all the details designers have to take into consideration when building products.
-On a similar note, I also read <a href="https://www.goodreads.com/book/show/19404862-hooked">Hooked</a> which explains what makes users hook to something(habit/app/idea). It's interesting(read scary) to know how much analysis goes into affecting our sub conscious, haha
+It talks about how it's not always(never) users fault but it's a design fault. It also talks a lot about designing for failure and what things to consider during design to make a successful product
+It also mentioned about different cultures viewing timelines differently. For us future is forward and for some cultures future is behind and past is forward(which is mapped to us being able to see what's infront of us and not at the back)
+On a similar note, I also read <a href="https://www.goodreads.com/book/show/19404862-hooked">Hooked</a> which explains what makes users hook to something(habit/app/idea).
+It has a 4 step(trigger, action, reward, investment) framework to building apps/products that has potential to get users hooked. It talks about habits(something that's done without much thought). Then it goes deep into each of the steps<br>
+Trigger: Can be internal/external and this is what makes users open the app<br>
+Action: What actions user has to perform to satisfy their trigger<br>
+Reward: Because humans are motivated by reward. What does the app offer<br>
+Investment: Users will be ready to invest for reward in the future
+<br>
+<br>
+
+<div>
+<a href="https://www.newyorker.com/magazine/2015/10/19/pond-scum">The transformative power of
+classical music</a>
+</div>
+I remember reading about Walden in school(9th grade), good to revisit it now(reminder of growing up, haha). I think getting exposed to diverse perspectives broadens ones thinking and also serves as a toolkit to analyse problems.I really liked the Emerson part in the write up. It's only practical to understand, what works for one doesn't necessarily have to work for everyone else.
+<br>
+<br>
+
+<div>
+<a href="https://www.ted.com/talks/megan_mcarthur_a_nasa_astronaut_s_lessons_on_fear_confidence_and_preparing_for_spaceflight">A NASA astronaut's lesson on fear, confidence and preparing for spaceflight</a>
+</div>
+It's very inspiring to see Megan talking passionately about her career. Being helpless causes people to be more anxious about problems is a good insight I got from this talk. Explains why my mom gets more anxious when I travel than me.
+
 
 Links:
 1. <a href="http://www.paulgraham.com/articles.html">Paul Graham's essays</a>
