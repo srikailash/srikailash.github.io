@@ -75,7 +75,7 @@ Always been a big fan of music. This talk is very moving just like music itself 
 There are very few books that can shape your perspective and this is one for me. A helpful insight I gathered from this book is to not always blame myself
 if I can't figure out how to use things. Also, I learned all the details designers have to take into consideration when building products.
 It talks about how it's not always(never) users fault but it's a design fault. It also talks a lot about designing for failure and what things to consider during design to make a successful product
-It also mentioned about different cultures viewing timelines differently. For us future is forward and for some cultures future is behind and past is forward(which is mapped to us being able to see what's infront of us and not at the back)
+It also mentioned about different cultures viewing timelines differently. For us future is forward and for some cultures future is behind and past is forward(which is mapped to us being able to see what's infront of us and not at the back)<br>
 On a similar note, I also read <a href="https://www.goodreads.com/book/show/19404862-hooked">Hooked</a> which explains what makes users hook to something(habit/app/idea).
 It has a 4 step(trigger, action, reward, investment) framework to building apps/products that has potential to get users hooked. It talks about habits(something that's done without much thought). Then it goes deep into each of the steps<br>
 Trigger: Can be internal/external and this is what makes users open the app<br>
