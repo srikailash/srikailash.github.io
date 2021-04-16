@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Hello there, thanks for stopping by!<br>
+Hello there! thanks for stopping by!<br>
 <br>
 I am Kailash, I'm a software engineer. <br>
 
-I'm currently building a mobile application that enables people to record voice memories.
+I'm currently building a mobile application that enables people to voice tape their memories.
 Plan to get the app in playstore soon<br>
 <br>
 I really like making things better and
