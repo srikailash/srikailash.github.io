@@ -17,7 +17,6 @@ How happy is the blameless vestel's lot!<br>
 <br>
 <br>
 
-<br>
 <div>
 <a href="https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives">The moral roots of Liberals and Conservatives</a><br>
 </div>
