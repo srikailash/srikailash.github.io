@@ -7,6 +7,18 @@ I am greatly inspired by Paul Graham's essays[1] and adapted his idea to share c
 
 <br>
 <div>
+<a href="https://www.youtube.com/watch?v=E8xGabLlI8k">Eternal Sunshine Of the Spotless Mind</a><br>
+</div>
+How happy is the blameless vestel's lot!<br>
+  The world forgetting, by the world forgot<br>
+    Eternal sunshine of the spotless mind!<br>
+      Each prayer accepted, and each wish resigned.
+-Alexander Pope
+<br>
+<br>
+
+<br>
+<div>
 <a href="https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives">The moral roots of Liberals and Conservatives</a><br>
 </div>
 I like that this talk is very analytical.
