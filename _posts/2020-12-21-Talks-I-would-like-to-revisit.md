@@ -12,7 +12,7 @@ I am greatly inspired by Paul Graham's essays[1] and adapted his idea to share c
 How happy is the blameless vestel's lot!<br>
   The world forgetting, by the world forgot<br>
     Eternal sunshine of the spotless mind!<br>
-      Each prayer accepted, and each wish resigned.
+      Each prayer accepted, and each wish resigned.<br>
 -Alexander Pope
 <br>
 <br>
