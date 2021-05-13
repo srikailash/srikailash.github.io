@@ -52,7 +52,8 @@ This talk made me realise how small details can radically change the experience.
 </div>
 Thanks to Peter Thiel and Susan Cain for shedding some light on the issue many people(me all the time during early 20s) face. Also being in engineering gave me opportunity to meet co-workers and bosses that are more on the side Peter Thiel mentions in the video.<br>
 On a similar note, I read through this book: <a href="https://www.goodreads.com/book/show/50272271-the-hunter-gatherer-neurotribe">Gifted, geeks, aspies and other aliens in this world</a><br>
-Such an extensive reserch from Andreas Hofer. Very well done and wish I had a school teacher like him!
+Such an extensive reserch from Andreas Hofer. Very well done and wish I had a school teacher like him!<br>
+<a href="https://www.smithsonianmag.com/science-nature/why-do-older-individuals-have-greater-control-their-feelings-180977693/">Article</a> that's very well done about emotional intelligence, it has certainly gotten better for me with age! Striving to find a balance is a major takeaway for me.
 <br>
 <br>
 
