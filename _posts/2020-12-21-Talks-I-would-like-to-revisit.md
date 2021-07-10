@@ -84,7 +84,7 @@ Always been a big fan of music. This talk is very moving just like music itself 
 <div>
 <a href="https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things?ac=1&from_search=true&qid=ihih0xoDz5&rank=1">The design of everyday things</a>
 </div>
-There are very few books that can shape your perspective and this is one for me. A helpful insight I gathered from this book is to not always blame myself
+There are very few books that can influence your perspective and this is one for me. A helpful insight I gathered from this book is to not always blame myself
 if I can't figure out how to use things. Also, I learned all the details designers have to take into consideration when building products.
 It talks about how it's not always(never) users fault but it's a design fault. It also talks a lot about designing for failure and what things to consider during design to make a successful product
 It also mentioned about different cultures viewing timelines differently. For us future is forward and for some cultures future is behind and past is forward(which is mapped to us being able to see what's infront of us and not at the back)<br>. It also taught me that having an approximate knowledge is enough for a few things rather than aiming for accuracy.
@@ -109,7 +109,14 @@ I remember reading about Walden in school(9th grade), good to revisit it now(rem
 <a href="https://www.ted.com/talks/megan_mcarthur_a_nasa_astronaut_s_lessons_on_fear_confidence_and_preparing_for_spaceflight">A NASA astronaut's lesson on fear, confidence and preparing for spaceflight</a>
 </div>
 It's very inspiring to see Megan talking passionately about her career. Being helpless causes people to be more anxious about problems is a good insight I got from this talk. Explains why my mom gets more anxious when I travel than me.
+<br>
+<br>
 
+<div>
+<a href="https://www.youtube.com/watch?v=mjAWVZq6wlw">Hayayo Miyazaki</a>
+</div>
+Studio Ghibli's movies are home :D
+Interesting to get insights from behind the scenes. I've also found making notes to be very helpful while developing something new.
 
 Links:
 1. <a href="http://www.paulgraham.com/articles.html">Paul Graham's essays</a>
